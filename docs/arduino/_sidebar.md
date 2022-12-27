@@ -7,4 +7,4 @@
   * Quick Start
   * Troubleshooting
 
-* [MicroPython](#/micropython/)
+* [MicroPython](/micropython/)
