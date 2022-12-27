@@ -15,11 +15,17 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
+        alias: {
+          '/changelog': 'https://github.com/watchy-community/wiki/commits/main',
+        },
+        hideSidebar: true,
         loadSidebar: true,
         loadNavbar: true,
+        repo: 'watchy-community/wiki'
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
   </body>
 </html>
