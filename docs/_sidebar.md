@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Arduino](#/arduino/)
-* [MicroPython](#/micropython/)
+* [Arduino](/#/arduino/)
+* [MicroPython](/#/micropython/)
