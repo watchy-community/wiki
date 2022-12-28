@@ -11,5 +11,5 @@
 
 If the `flash_id` command works, you should get a response similar to:
 
-[](this)
+![](https://github.com/watchy-community/wiki/raw/main/docs/_media/esptool_windows_flashid.png)
 
