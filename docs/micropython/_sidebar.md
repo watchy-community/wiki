@@ -6,5 +6,5 @@
 * MicroPython
 
   * [Setup](/micropython/setup)
-  * Code Samples
-  * Troubleshooting
+  * [Code Samples](/micropython/code)
+  * [Troubleshooting](/micropython/troubleshooting)
